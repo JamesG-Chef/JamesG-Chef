@@ -2,11 +2,17 @@
 
 I'm James.
 
-I used to be a chef but now i'm an aspiring developer!
+A long time ago in a galaxy far, far away.....
+I was a chef.
 
-:boom: I've just started the November cohort of the Northcoders bootcamp  :boom:
+Now i've swapped writing recipes for writing lines of code. 
+Which is harder...? I'm still not quite sure.
+
+I'm a recent graduate of the Northcoders Coding Bootcamp where I learnt the fundamentals of Javascript both on the front end and the back.
+
+:boom: I love the constant challenge and the endless list of things to learn, it keeps me hungry  :boom:
 
   :tada: :tada: :tada:
 
-I hope I can live up to the challenge. :four_leaf_clover:
+Now i'm hoping to find my first role in a professional evironment. :four_leaf_clover:
 
