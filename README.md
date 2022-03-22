@@ -6,6 +6,7 @@ A long time ago in a galaxy far, far away.....
 I was a chef.
 
 Now i've swapped writing recipes for writing lines of code. 
+
 Which is harder...? I'm still not quite sure.
 
 I started to dabble more seriously in writing code during the lockdown of 2020 and have been hooked ever since.
